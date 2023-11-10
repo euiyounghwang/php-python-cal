@@ -22,3 +22,10 @@ poetry add fastapi
 poetry add uvicorn
 poetry add pytz
 ```
+
+Jquery UI <----> REST API
+```bash
+UI : http://localhost:3000/php-python-cal/php-restapi/main.html
+API : http://localhost:7777/docs#/default/calculate_cal_post
+```
+![Alt text](./php-restapi/REST-API.png)
